@@ -1,0 +1,105 @@
+{
+  "data1": [
+    {"type": "Tiyatro",
+      "name": "BKM Yaz Etkinleri: Zengin Mutfağı",
+      "id": "0",
+      "image": "https://klassmagazin.com//img/408cb1a0-a68c-4c7f-972b-dc037c7ad78c55.jpg",
+      "date":"22 Eylül Salı",
+      "location": "Maximum UNIQ Hall",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+    },
+    {"type": "STAND-UP",
+      "name": "Yasemin Sakallıoğlu",
+      "id": "1",
+      "image": "https://yt3.googleusercontent.com/ytc/AGIKgqNKHHfzBkSpsYush2i1YzHTA5l_Dax7GWRC_b0F=s900-c-k-c0x00ffffff-no-rj",
+      "date":"08 Eylül Çarşamba",
+      "location": "Maximum UNIQ Box",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+
+    },
+    {"type": "Sinema",
+      "name": "Kin",
+      "id": "2",
+      "image": "https://i0.wp.com/blog-okur.com/wp-content/uploads/2021/10/Kin-Film-Konusu-ve-Yorumu-%E2%80%93-Netflix.jpeg?fit=1024%2C684&ssl=1",
+      "date":"01 Eylül Salı",
+      "location": "Maximum UNIQ Lounge",
+      "text": "Kin, bir ailenin intikam hikayesini anlatıyor. Mesleğinin en büyük ödülünü aldıktan sonra ekip arkadaşlarıyla kutlamaya giden başkomiser Harun (Yılmaz Erdoğan) terfi alacağına emin olduğu aynı gecede eve dönerken bulunduğu taksideki şoförün saldırısı sonucu onu öldürmeye çalışan taksi şoförüne nefsi müdafa yaptıktan sonra bizzat kendini büyük bir soruşturmanın içerisinde bulur."
+    },
+    {"type": "Sinema",
+      "name": "Sinema Keyfi: Rifkin's Festival",
+      "id": "3",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjMzMzk2YjEtZjkwYy00Zjc5LWJmZDctZTY1NTBkNjg3ZDk5XkEyXkFqcGdeQXVyMzI2ODkyNDg@._V1_.jpg",
+      "date":"05 Ekim Salı",
+      "location": "Maximum UNIQ Açıkhava",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+    },
+    {"type": "Tiyatro",
+      "name": "Kürk Mantolu Madonna",
+      "id": "4",
+      "image": "https://firsat.me/img/big1024/22.11.21_11.46.55_1108x1080_1.webp",
+      "date":"06 Mayıs Cumartesi",
+      "location": "Bahçe Fuaye",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+    },
+    {"type": "STAND-UP",
+      "name": "Yasemin Sakallıoğlu",
+      "id": "5",
+      "image": "https://yt3.googleusercontent.com/ytc/AGIKgqNKHHfzBkSpsYush2i1YzHTA5l_Dax7GWRC_b0F=s900-c-k-c0x00ffffff-no-rj",
+      "date":"11 Eylül Cuma",
+      "location": "Maximum UNIQ Box",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+
+    },
+    {"type": "Sinema",
+      "name": "Ahlat Ağacı",
+      "id": "6",
+      "image": "https://m.bianet.org/system/uploads/1/articles/spot_image/000/207/386/original/1062277_620x360.jpg",
+      "date":"09 Ekim Salı",
+      "location": "Maximum UNIQ Açıkhava",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+    }
+  ,
+    {"type": "STAND-UP",
+      "name": "Yasemin Sakallıoğlu",
+      "id": "7",
+      "image": "https://yt3.googleusercontent.com/ytc/AGIKgqNKHHfzBkSpsYush2i1YzHTA5l_Dax7GWRC_b0F=s900-c-k-c0x00ffffff-no-rj",
+      "date":"12 Eylül Cuma",
+      "location": "Maximum UNIQ Box",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+
+    },
+    {"type": "Sinema",
+      "name": "Ahlat Ağacı",
+      "id": "8",
+      "image": "https://m.bianet.org/system/uploads/1/articles/spot_image/000/207/386/original/1062277_620x360.jpg",
+      "date":"10 Ekim Salı",
+      "location": "Maximum UNIQ Açıkhava",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+    },
+    {"type": "Sinema",
+      "name": "Kin",
+      "id": "9",
+      "image": "https://i0.wp.com/blog-okur.com/wp-content/uploads/2021/10/Kin-Film-Konusu-ve-Yorumu-%E2%80%93-Netflix.jpeg?fit=1024%2C684&ssl=1",
+      "date":"02 Eylül Salı",
+      "location": "Maximum UNIQ Lounge",
+      "text": "Kin, bir ailenin intikam hikayesini anlatıyor. Mesleğinin en büyük ödülünü aldıktan sonra ekip arkadaşlarıyla kutlamaya giden başkomiser Harun (Yılmaz Erdoğan) terfi alacağına emin olduğu aynı gecede eve dönerken bulunduğu taksideki şoförün saldırısı sonucu onu öldürmeye çalışan taksi şoförüne nefsi müdafa yaptıktan sonra bizzat kendini büyük bir soruşturmanın içerisinde bulur."
+    },
+    {"type": "Sinema",
+      "name": "Sinema Keyfi: Rifkin's Festival",
+      "id": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjMzMzk2YjEtZjkwYy00Zjc5LWJmZDctZTY1NTBkNjg3ZDk5XkEyXkFqcGdeQXVyMzI2ODkyNDg@._V1_.jpg",
+      "date":"06 Ekim Salı",
+      "location": "Maximum UNIQ Açıkhava",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+    },
+    {"type": "Tiyatro",
+      "name": "Kürk Mantolu Madonna",
+      "id": "11",
+      "image": "https://firsat.me/img/big1024/22.11.21_11.46.55_1108x1080_1.webp",
+      "date":"07 Mayıs Cumartesi",
+      "location": "Bahçe Fuaye",
+      "text" : "Sinan oldum olası edebiyatla ilgili bir genç adamdır ve yazar olmak istemektedir. Anadolu'da doğduğu köye dönen genç adam kitabını bastıracak parayı bulmak için tüm enerjisini harcamaya başlar ancak babasının geçmişten kalan borçları başına dert olacaktır... Nuri Bilge Ceylan'ın sekizinci sinema filmi olan Ahlat Ağacı'nın yapımcılığının Türkiye ayağını Zeynep Özbatur Atakan üstleniyor."
+    }
+
+  ]
+}

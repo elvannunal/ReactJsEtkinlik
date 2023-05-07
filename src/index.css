@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#filterId{
+    z-index: 12;
+    position: absolute !important;
+}
